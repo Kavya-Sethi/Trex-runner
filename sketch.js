@@ -96,7 +96,7 @@ cloudsGroup=new Group();
 function draw(){
   //console.log(frameRate());
 
-  background("red");
+  background("white");
   trex.changeAnimation("t_x");
 console.log(trex.y);
   //display score
